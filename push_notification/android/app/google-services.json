@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "126996327651",
+    "project_id": "flutterpushnotification-28c6d",
+    "storage_bucket": "flutterpushnotification-28c6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126996327651:android:ba250437f00cb4ab6a29d6",
+        "android_client_info": {
+          "package_name": "com.francoherrera.push_notification"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDn08qgHbl30CC0FIqTuPxIdfnW82kJqQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
